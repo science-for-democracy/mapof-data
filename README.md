@@ -3,6 +3,13 @@
 Technically this is not a package, but a repository containing datasets and use cases for all mapof projects.
 
 
+# Mapof-data
+Size notation example:
+- 10x100 - 10 candidates, 100 voters
+
+OrdinalElections/OrdinalElections.zip contains elections with the following sizes: 10x50, 10x100, 20x100, and 100x100.
+ApprovalElections/ApprovalElections.zip contains elections with the following size: 50x100.
+ApprovalElections/LargeApprovalElections.zip contains elections with the following size: 100x1000.
 
 # Acknowledgments
 

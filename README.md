@@ -11,6 +11,10 @@ OrdinalElections/OrdinalElections.zip contains elections with the following size
 ApprovalElections/ApprovalElections.zip contains elections with the following size: 50x100.
 ApprovalElections/LargeApprovalElections.zip contains elections with the following size: 100x1000.
 
+# Tutorial
+Jupyter notebook tutorial is available in the `JupyterTutorial` directory. 
+It contains examples related to approval and ordinal elections.
+
 # Acknowledgments
 
 This project is part of the [PRAGMA project](https://home.agh.edu.pl/~pragma/)
